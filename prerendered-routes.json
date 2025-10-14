@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/portfolio-app": {},
+    "/portfolio-app/404": {},
+    "/portfolio-app/about": {},
+    "/portfolio-app/home": {},
+    "/portfolio-app/projects": {},
+    "/portfolio-app/resume": {}
+  }
+}
