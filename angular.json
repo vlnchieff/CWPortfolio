@@ -11,7 +11,7 @@
       "prefix": "app",
       "architect": {
         "build": {
-          "builder": "@angular/build:application",
+          "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/portfolio-app",
             "index": "src/index.html",
@@ -27,7 +27,7 @@
               {
                 "glob": "**/*",
                 "input": "/public",
-                "output": "/browser/"
+                "output": "/public/"
               }
             ],
             "styles": [
