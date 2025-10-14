@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/portfolio-app',
+  basePath: '/CWPortfolio',
   supportedLocales: {
   "en-US": ""
 },

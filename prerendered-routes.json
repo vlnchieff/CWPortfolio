@@ -1,10 +1,10 @@
 {
   "routes": {
-    "/portfolio-app": {},
-    "/portfolio-app/404": {},
-    "/portfolio-app/about": {},
-    "/portfolio-app/home": {},
-    "/portfolio-app/projects": {},
-    "/portfolio-app/resume": {}
+    "/CWPortfolio": {},
+    "/CWPortfolio/404": {},
+    "/CWPortfolio/about": {},
+    "/CWPortfolio/home": {},
+    "/CWPortfolio/projects": {},
+    "/CWPortfolio/resume": {}
   }
 }
