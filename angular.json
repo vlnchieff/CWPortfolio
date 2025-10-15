@@ -27,7 +27,7 @@
               {
                 "glob": "**/*",
                 "input": "/public",
-                "output": "/browser"
+                "output": "/public"
               }
             ],
             "styles": [
