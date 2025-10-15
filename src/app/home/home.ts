@@ -61,7 +61,7 @@ interface BucketItem {
     .hero {
       text-align: center;
       padding: 4rem 2rem;
-      background: linear-gradient(135deg, #6366f1 0%,rgb(99, 95, 175, 0.3) 100%), url('assets/images/Columns.jpg');
+      background: linear-gradient(135deg, #6366f1 0%,rgb(99, 95, 175, 0.3) 100%), url('/images/Columns.jpg');
       background-size: cover;
       color: white;
       border-radius: 1rem;
