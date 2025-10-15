@@ -58,7 +58,15 @@ interface BucketItem {
       font-family: "Nunito", sans-serif;
     }
 
-
+    .hero {
+      text-align: center;
+      padding: 4rem 2rem;
+      background: linear-gradient(135deg, #6366f1 0%,rgb(99, 95, 175, 0.3) 100%), url('/Columns.jpg');
+      background-size: cover;
+      color: white;
+      border-radius: 1rem;
+      margin-bottom: 3rem;
+    }
 
     .hero h1 {
       font-size: 8rem;
